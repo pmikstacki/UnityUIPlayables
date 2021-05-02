@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class CanvasGroupAnimationMixerBehaviour
         : AnimationMixerBehaviour<CanvasGroup, CanvasGroupAnimationMixer, CanvasGroupAnimationBehaviour>

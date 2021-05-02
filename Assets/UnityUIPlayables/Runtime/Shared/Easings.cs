@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     /// <summary>
     ///     Easing Functions enumeration

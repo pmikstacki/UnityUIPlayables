@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class RectTransformAnimationMixerBehaviour
         : AnimationMixerBehaviour<RectTransform, RectTransformAnimationMixer, RectTransformAnimationBehaviour>

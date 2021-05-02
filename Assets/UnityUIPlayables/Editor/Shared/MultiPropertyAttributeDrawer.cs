@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomPropertyDrawer(typeof(MultiPropertyAttribute), true)]
     public class MultiPropertyAttributeDrawer : PropertyDrawer

@@ -1,7 +1,7 @@
 ﻿using TMPro;
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class TextMeshProUGUISpacingMixer
     {

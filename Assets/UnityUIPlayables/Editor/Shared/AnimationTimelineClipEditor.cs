@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Timeline;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     public class AnimationTimelineClipEditor<TAnimationBehaviour> : ClipEditor
         where TAnimationBehaviour : AnimationBehaviour, new()

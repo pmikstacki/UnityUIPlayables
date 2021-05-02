@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Playables;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public abstract class AnimationBehaviour : PlayableBehaviour

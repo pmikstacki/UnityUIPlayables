@@ -1,6 +1,6 @@
 ﻿using UnityEditor.Timeline;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomTimelineEditor(typeof(ImageAnimationClip))]
     public class ImageAnimationClipEditor : AnimationTimelineClipEditor<ImageAnimationBehaviour>

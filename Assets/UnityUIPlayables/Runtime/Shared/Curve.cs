@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public class Curve

@@ -1,6 +1,6 @@
 using UnityEngine.UI;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class SliderAnimationMixer : AnimationMixer<Slider, SliderAnimationBehaviour>
     {

@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     public class PlayableBehaviourDrawer : PropertyDrawer
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Timeline;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [TrackColor(0.1098f, 0.3529f, 0.8392f)]
     [TrackClipType(typeof(RectTransformAnimationClip))]

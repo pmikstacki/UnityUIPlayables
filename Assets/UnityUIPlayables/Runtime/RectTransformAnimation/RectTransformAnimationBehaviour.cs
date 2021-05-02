@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public class RectTransformAnimationBehaviour : AnimationBehaviour

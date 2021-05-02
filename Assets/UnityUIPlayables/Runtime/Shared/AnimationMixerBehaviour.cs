@@ -1,6 +1,6 @@
 ﻿using UnityEngine.Playables;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class AnimationMixerBehaviour<TBinding, TValueMixer, TAnimationBehaviour> : PlayableBehaviour
         where TValueMixer : AnimationMixer<TBinding, TAnimationBehaviour>, new()

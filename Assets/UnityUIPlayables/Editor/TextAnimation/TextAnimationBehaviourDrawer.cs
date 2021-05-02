@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomPropertyDrawer(typeof(TextAnimationBehaviour))]
     public class TextAnimationBehaviourDrawer : PlayableBehaviourDrawer

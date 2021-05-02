@@ -5,7 +5,7 @@ using UnityEditor;
 
 #endif
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property)]
     internal class EnabledIfAttribute : MultiPropertyAttribute

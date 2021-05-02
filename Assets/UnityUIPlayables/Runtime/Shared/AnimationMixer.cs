@@ -1,4 +1,4 @@
-﻿namespace UnityUIPlayables
+﻿namespace FlexUI
 {
     public abstract class AnimationMixer<TBinding, TAnimationBehaviour>
     {

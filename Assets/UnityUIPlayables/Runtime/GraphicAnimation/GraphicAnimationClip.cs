@@ -1,6 +1,6 @@
 using System;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public class GraphicAnimationClip : AnimationTimelineClip<GraphicAnimationBehaviour>

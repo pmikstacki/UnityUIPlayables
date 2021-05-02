@@ -4,7 +4,7 @@ using UnityEditor;
 
 #endif
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     internal interface IAttributePropertyDrawer
     {

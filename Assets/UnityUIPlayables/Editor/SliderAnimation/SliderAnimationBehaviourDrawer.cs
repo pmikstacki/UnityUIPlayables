@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomPropertyDrawer(typeof(SliderAnimationBehaviour))]
     public class SliderAnimationBehaviourDrawer : PlayableBehaviourDrawer

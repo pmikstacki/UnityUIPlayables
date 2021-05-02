@@ -1,4 +1,4 @@
-﻿namespace UnityUIPlayables
+﻿namespace FlexUI
 {
     internal enum CurveType
     {

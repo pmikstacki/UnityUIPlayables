@@ -1,6 +1,6 @@
 using TMPro;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     public class TextMeshProUGUIAnimationMixer : AnimationMixer<TextMeshProUGUI, TextMeshProUGUIAnimationBehaviour>
     {

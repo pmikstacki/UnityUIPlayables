@@ -1,6 +1,6 @@
 ﻿using UnityEditor.Timeline;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomTimelineEditor(typeof(RawImageAnimationClip))]
     public class RawImageAnimationClipEditor : AnimationTimelineClipEditor<RawImageAnimationBehaviour>

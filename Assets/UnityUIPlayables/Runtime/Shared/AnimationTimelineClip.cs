@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public abstract class AnimationTimelineClip<TAnimationBehaviour> : PlayableAsset, ITimelineClipAsset

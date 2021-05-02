@@ -2,7 +2,7 @@ using System;
 using TMPro;
 using UnityEngine;
 
-namespace UnityUIPlayables
+namespace FlexUI
 {
     [Serializable]
     public class TextMeshProUGUIAnimationValue

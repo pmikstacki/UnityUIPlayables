@@ -1,6 +1,6 @@
 using UnityEditor;
 
-namespace UnityUIPlayables.Editor
+namespace FlexUI.Editor
 {
     [CustomPropertyDrawer(typeof(CanvasGroupAnimationBehaviour))]
     public class CanvasGroupAnimationBehaviourDrawer : PlayableBehaviourDrawer
