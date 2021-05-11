@@ -1,6 +1,7 @@
-﻿using UnityEngine.UI;
+﻿using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
+using UnityEngine.UI;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.GraphicAnimation
 {
     public class GraphicAnimationMixer : AnimationMixer<Graphic, GraphicAnimationBehaviour>
     {

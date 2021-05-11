@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
     /// <summary>
     ///     Easing Functions enumeration

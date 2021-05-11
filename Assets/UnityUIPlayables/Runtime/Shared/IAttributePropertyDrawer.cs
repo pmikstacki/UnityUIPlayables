@@ -1,10 +1,10 @@
-﻿using UnityEngine;
+﻿using UnityEditor;
+using UnityEngine;
 #if UNITY_EDITOR
-using UnityEditor;
 
 #endif
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
     internal interface IAttributePropertyDrawer
     {

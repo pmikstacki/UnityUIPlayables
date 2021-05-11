@@ -1,8 +1,9 @@
-﻿using UnityEditor.Timeline;
+﻿using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
+using UnityEditor.Timeline;
 using UnityEngine;
 using UnityEngine.Timeline;
 
-namespace FlexUI.Editor
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Editor.Shared
 {
     public class AnimationTimelineClipEditor<TAnimationBehaviour> : ClipEditor
         where TAnimationBehaviour : AnimationBehaviour, new()

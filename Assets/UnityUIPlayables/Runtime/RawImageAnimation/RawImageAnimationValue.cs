@@ -1,7 +1,8 @@
 using System;
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.GraphicAnimation;
 using UnityEngine;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.RawImageAnimation
 {
     [Serializable]
     public class RawImageAnimationValue : GraphicAnimationValue

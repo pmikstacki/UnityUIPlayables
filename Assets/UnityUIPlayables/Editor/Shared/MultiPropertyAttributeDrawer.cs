@@ -1,8 +1,9 @@
 ﻿using System.Linq;
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
 using UnityEditor;
 using UnityEngine;
 
-namespace FlexUI.Editor
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Editor.Shared
 {
     [CustomPropertyDrawer(typeof(MultiPropertyAttribute), true)]
     public class MultiPropertyAttributeDrawer : PropertyDrawer

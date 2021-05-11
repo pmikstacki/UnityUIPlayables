@@ -1,4 +1,4 @@
-﻿namespace FlexUI
+﻿namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
     internal enum CurveType
     {

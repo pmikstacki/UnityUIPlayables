@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
+using UnityEngine;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.RectTransformAnimation
 {
     public class RectTransformAnimationMixer : AnimationMixer<RectTransform, RectTransformAnimationBehaviour>
     {

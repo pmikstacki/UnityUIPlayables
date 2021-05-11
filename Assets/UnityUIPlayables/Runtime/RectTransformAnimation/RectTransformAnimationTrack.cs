@@ -1,7 +1,8 @@
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
 using UnityEngine;
 using UnityEngine.Timeline;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.RectTransformAnimation
 {
     [TrackColor(0.1098f, 0.3529f, 0.8392f)]
     [TrackClipType(typeof(RectTransformAnimationClip))]

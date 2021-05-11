@@ -1,6 +1,8 @@
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.GraphicAnimation;
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
 using UnityEngine.UI;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.RawImageAnimation
 {
     public class RawImageAnimationMixer : AnimationMixer<RawImage, RawImageAnimationBehaviour>
     {

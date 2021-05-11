@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.CanvasGroupAnimation
 {
     [Serializable]
     public class CanvasGroupAnimationValue

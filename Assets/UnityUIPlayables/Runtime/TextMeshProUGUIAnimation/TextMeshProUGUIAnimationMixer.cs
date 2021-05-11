@@ -1,6 +1,7 @@
+using Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared;
 using TMPro;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.TextMeshProUGUIAnimation
 {
     public class TextMeshProUGUIAnimationMixer : AnimationMixer<TextMeshProUGUI, TextMeshProUGUIAnimationBehaviour>
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine.Playables;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
     public class AnimationMixerBehaviour<TBinding, TValueMixer, TAnimationBehaviour> : PlayableBehaviour
         where TValueMixer : AnimationMixer<TBinding, TAnimationBehaviour>, new()

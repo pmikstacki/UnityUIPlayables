@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
     public abstract class
         AnimationTrack<TBinding, TValueMixer, TAnimationMixerBehaviour, TAnimationBehaviour> : TrackAsset

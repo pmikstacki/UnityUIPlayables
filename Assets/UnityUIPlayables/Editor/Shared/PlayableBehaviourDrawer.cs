@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace FlexUI.Editor
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Editor.Shared
 {
     public class PlayableBehaviourDrawer : PropertyDrawer
     {

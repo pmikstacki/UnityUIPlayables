@@ -1,6 +1,9 @@
-﻿public enum LoopType
+﻿namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.Shared
 {
-    Repeat,
-    Reverse,
-    PingPong
+    public enum LoopType
+    {
+        Repeat,
+        Reverse,
+        PingPong
+    }
 }

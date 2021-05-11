@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace FlexUI
+namespace Flex.Scripts.FlexUI.PlayableTimeline.Assets.UnityUIPlayables.Runtime.CanvasGroupAnimation
 {
     public class CanvasGroupAlphaMixer
     {
